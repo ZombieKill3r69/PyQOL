@@ -1,6 +1,7 @@
-from pyqol import test_func
+from pyqol import clear
 
-def test_test_func():
-    test_func()
+while True:
+    for i in range(1, 10):
+        print("Hello World!")
 
-test_test_func()
+    clear()
