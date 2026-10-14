@@ -6,3 +6,7 @@
 
 ### Would get much use from this
 - No, probably not
+
+### Can i edit this project
+- Go on, if you want
+- I dont care about any of that just do what you want with the source code
